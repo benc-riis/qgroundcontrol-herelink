@@ -86,3 +86,5 @@ HEADERS += $$PWD/herelink/VideoStreamControl.h
 INCLUDEPATH += $$PWD/herelink
 
 # Custom versions of a Herelink build should only add changes below here to prevent conflicts
+QML_IMPORT_PATH += \
+   $$PWD/res
