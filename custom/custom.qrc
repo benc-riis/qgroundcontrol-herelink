@@ -7,4 +7,7 @@
     </qresource>
     <qresource prefix="/qml">
     </qresource>
+    <qresource prefix="/res">
+        <file alias="QGCLogoFull">res/Images/logo-white-notext.png</file> 
+    </qresource>
 </RCC>
