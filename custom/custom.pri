@@ -60,8 +60,8 @@ CONFIG += AndroidHomeApp
 
 # Our own, custom resources
 # Not yet used
-#RESOURCES += \
-#    $$PWD/custom.qrc
+RESOURCES += \
+    $$PWD/custom.qrc
 
 QML_IMPORT_PATH += \
    $$PWD/src
